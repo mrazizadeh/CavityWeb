@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'cavityweb'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eb35b97243a547a1ad8114e7642ff97f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_86b57b89df474a608937024587fea2ee }}
